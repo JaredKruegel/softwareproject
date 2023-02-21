@@ -1,5 +1,3 @@
-hi hi
+**added:** hello.java file
 
-**bold**
-
-*italic*
+the hello.java file outputs a message *"Hello World!"*
